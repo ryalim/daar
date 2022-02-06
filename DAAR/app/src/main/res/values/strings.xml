@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAAR</string>
+
+    <string-array name="Lieux">
+        <item>Bistrot des Gascons</item>
+        <item>Café des Phares</item>
+        <item>Le Vert Tulipe</item>
+        <item>Ruche qui dit Oui</item>
+    </string-array>
+</resources>

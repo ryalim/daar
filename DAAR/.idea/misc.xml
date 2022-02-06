@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/drawable/button.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue0.xml" value="0.176" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue1.xml" value="0.264" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue2.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue20.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue21.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue22.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue23.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue3.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue30.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue31.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue32.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue33.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue34.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue4.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue40.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue41.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue42.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue43.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue44.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue5.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout-land/vue54.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/activity_vue1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/activity_vue2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/child_item.xml" value="0.11854103343465046" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/group_item.xml" value="0.11854103343465046" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/spinner_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue0.xml" value="0.2" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue1.xml" value="0.1951219512195122" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue2.xml" value="0.22" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue20.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue21.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue22.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue23.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue30.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue31.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue32.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue33.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue34.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue40.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue41.xml" value="0.264" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue42.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue43.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue44.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue5.xml" value="0.264" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue50.xml" value="0.1" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue51.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue52.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue53.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/layout/vue54.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/Rayan/AndroidStudioProjects/DAAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

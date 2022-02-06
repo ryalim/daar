@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.daar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DAAR">
+        <activity
+            android:name=".vue54Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue44Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue43Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue42Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue41Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue40Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue34Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue33Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue32Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue31Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue30Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue23Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue22Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue21Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue20Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".vue1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
